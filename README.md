@@ -1,2 +1,11 @@
-# 90_days_of_Java
-A 90-day journey to master Java through daily coding, problem-solving, and real-world projects.
+🚀 Day 1/90 – Java Challenge
+
+Started my journey to become a Java Developer 💻
+
+✅ Learned:
+- Java basics
+- Variables
+- Data types
+
+Consistency is the key 🔑
+#90DaysOfCode #Java
