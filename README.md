@@ -9,3 +9,15 @@ Started my journey to become a Java Developer 💻
 
 Consistency is the key 🔑
 #90DaysOfCode #Java
+
+ Day 2/90 - Java Operators
+
+ 📚 Learned:
+- Arithmetic Operators (+, -, *, /, %)
+- Relational Operators (==, !=, >, <, >=, <=)
+- Logical Operators (&&, ||, !)
+- Assignment Operators
+- Ternary Operator
+- Bitwise Operators (&, |, ^, ~, <<, >>)
+
+#90DaysOfCode #Java
