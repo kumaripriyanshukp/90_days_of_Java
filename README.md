@@ -21,3 +21,20 @@ Consistency is the key 🔑
 - Bitwise Operators (&, |, ^, ~, <<, >>)
 
 #90DaysOfCode #Java
+
+Day 3/90 - Control Statements (if-else & switch)
+
+📚 Learned:
+- if statement
+- if-else statement
+- nested if-else
+- switch case
+- Difference between if-else and switch
+
+💻 Practiced:
+- Simple calculator using switch case
+- Temperature checker using if-else
+- Basic decision-making programs
+
+Consistency is the key 🔑  
+#90DaysOfCode #Java
