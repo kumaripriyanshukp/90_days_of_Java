@@ -44,17 +44,17 @@ Consistency is the key 🔑
 Continuing my journey to become a Java Developer 💻
 
 📚 Learned:
-for loop
-while loop
-do-while loop
-break statement
-continue statement
+- for loop
+- while loop
+- do-while loop
+- break statement
+- continue statement
 
 💻 Practiced:
-Printing numbers using loops
-Skipping values using continue
-Stopping loop using break
-Basic pattern and iteration problems
+- Printing numbers using loops
+- Skipping values using continue
+- Stopping loop using break
+- Basic pattern and iteration problems
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
