@@ -38,3 +38,23 @@ Day 3/90 - Control Statements (if-else & switch)
 
 Consistency is the key 🔑  
 #90DaysOfCode #Java
+
+🚀 Day 4/90 – Java Loops & Flow Control
+
+Continuing my journey to become a Java Developer 💻
+
+📚 Learned:
+for loop
+while loop
+do-while loop
+break statement
+continue statement
+
+💻 Practiced:
+Printing numbers using loops
+Skipping values using continue
+Stopping loop using break
+Basic pattern and iteration problems
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
