@@ -60,6 +60,7 @@ Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
 
 📅 Day 5/90 – Pattern Problems (Basic)
+
 📚 Learned:
 - Pattern printing logic
 - Nested loops (advanced understanding)
