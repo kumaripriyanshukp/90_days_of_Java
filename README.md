@@ -58,3 +58,16 @@ Continuing my journey to become a Java Developer 💻
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+📅 Day 5/90 – Pattern Problems (Basic)
+📚 Learned:
+- Pattern printing logic
+- Nested loops (advanced understanding)
+
+💻 Practiced:
+- Alphabet patterns (A, AB, ABC…)
+- Number pyramid patterns
+- Increasing & decreasing patterns
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
