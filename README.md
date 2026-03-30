@@ -72,3 +72,12 @@ Consistency is the key 🔑
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+Day 6/90 - Advanced Pattern Problems
+
+📚 Learned:
+- Complex pattern logic
+- Nested loops optimization
+- Pattern visualization techniques
+
+💡 Improved problem-solving skills and logical thinking
