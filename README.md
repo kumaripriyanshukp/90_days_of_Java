@@ -81,3 +81,14 @@ Day 6/90 - Advanced Pattern Problems
 - Pattern visualization techniques
 
 💡 Improved problem-solving skills and logical thinking
+
+Day 7/90 - Java Functions
+
+✅ Learned:
+- Function basics
+- Parameters & return types
+- Code modularization
+
+💻 Practiced problems like palindrome checker
+
+#90DaysOfCode #Java
