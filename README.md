@@ -92,3 +92,15 @@ Day 7/90 - Java Functions
 💻 Practiced problems like palindrome checker
 
 #90DaysOfCode #Java
+
+🚀 Day 8/90 – Java Array
+
+📚 Learned:
+- Array basics
+- Copying one array into another
+- Finding average of array elements
+
+💡 Improved problem-solving skills with arrays
+
+Consistency is the key 🔑  
+#90DaysOfCode #Java
