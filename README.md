@@ -104,3 +104,15 @@ Day 7/90 - Java Functions
 
 Consistency is the key 🔑  
 #90DaysOfCode #Java
+
+Day 9/90 - Searching & Array Problems
+
+📚 Learned:
+- Linear Search
+- Binary Search
+- Finding pairs in an array
+
+💡 Improved understanding of searching techniques and array-based problem solving.
+
+Consistency is the key 🔑  
+#90DaysOfCode #Java
