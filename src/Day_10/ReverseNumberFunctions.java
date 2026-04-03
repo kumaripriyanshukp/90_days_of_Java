@@ -1,4 +1,6 @@
 // Program to print the reverse number using functions.
+package Day_10;
+
 public class ReverseNumberFunctions {
     public static int reverseNumber(int num){
         int rev = 0;
