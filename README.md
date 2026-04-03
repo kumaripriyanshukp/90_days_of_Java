@@ -116,3 +116,24 @@ Day 9/90 - Searching & Array Problems
 
 Consistency is the key 🔑  
 #90DaysOfCode #Java
+
+🚀 Day 10/90 – Java Functions Practice
+
+Continuing my journey to become a Java Developer 💻
+
+📚 Learned:
+- Function definition and structure
+- Parameters and arguments
+- Return types (int, void, etc.)
+- Importance of code reusability
+
+💻 Practiced:
+- Factorial using function
+- Palindrome checker using function
+- Sum and average using functions
+- Basic problem-solving using modular approach
+
+💡 Improved logical thinking and code organization
+
+Consistency is the key 🔑  
+#90DaysOfCode #Java #CodingJourney
