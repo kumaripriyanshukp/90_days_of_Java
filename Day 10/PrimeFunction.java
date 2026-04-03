@@ -1,6 +1,4 @@
 // Program to print whether the number is prime or not using functions.
-package Day_10;
-
 public class PrimeFunction {
     public static boolean isPrime(int num){
         for(int i = 2; i < Math.sqrt(num); i++){

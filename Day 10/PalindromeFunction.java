@@ -1,6 +1,4 @@
 // Program to check whether the number is palindrome or not using functions.
-package Day_10;
-
 public class PalindromeFunction {
     public static boolean isPalindrome(int num){
         int original = num;

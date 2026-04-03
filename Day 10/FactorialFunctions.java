@@ -1,5 +1,4 @@
 // Program to print the factorial using functions
-package Day_10;
 import java.util.*;
 public class FactorialFunctions{
     public static void printFactorial(int num){
