@@ -14,4 +14,3 @@ public class SumOfDigitsFunction {
         System.out.println("The sum of digits : " + sumOfDigits(num));
     }
 }
-
