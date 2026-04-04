@@ -137,3 +137,13 @@ Continuing my journey to become a Java Developer 💻
 
 Consistency is the key 🔑  
 #90DaysOfCode #Java #CodingJourney
+
+🚀 Day 11/90 – Java Challenge
+
+📚 Practiced Arrays:
+- Second largest element
+- Check if array is sorted
+- Find duplicate elements
+
+Improving problem-solving step by step 💻
+#90DaysOfCode #Java #DSA
