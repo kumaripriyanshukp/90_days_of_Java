@@ -146,4 +146,24 @@ Consistency is the key 🔑
 - Find duplicate elements
 
 Improving problem-solving step by step 💻
-#90DaysOfCode #Java #DSA
+#90DaysOfCode #Java 
+
+🚀 Day 12/90 – Java Strings
+
+Continuing my journey to become a Java Developer 💻
+
+📚 Learned:
+
+- String basics
+- String methods (length(), charAt(), etc.)
+- Immutable nature of strings
+
+💻 Practiced:
+
+- Reverse a string (multiple approaches)
+- Basic string manipulation problems
+
+💡 Improved understanding of string handling and logic building
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
