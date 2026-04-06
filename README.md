@@ -167,3 +167,25 @@ Continuing my journey to become a Java Developer 💻
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+🚀 Day 13/90 – Advanced String Problems
+
+Continuing my journey to become a Java Developer 💻
+
+📚 Learned:
+
+- Advanced string problem solving
+- String comparison (`==` vs `.equals()`)
+- Anagram logic and implementation
+- Character array manipulation
+
+💻 Practiced:
+
+- Check if two strings are anagrams
+- String comparison using `.equals()`
+- Problem-solving using sorting and arrays
+
+💡 Improved understanding of string handling, logic building, and problem-solving techniques
+
+Consistency is the key 🔑  
+#90DaysOfCode #Java #CodingJourney
