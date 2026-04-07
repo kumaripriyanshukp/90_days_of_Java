@@ -189,3 +189,22 @@ Continuing my journey to become a Java Developer 💻
 
 Consistency is the key 🔑  
 #90DaysOfCode #Java #CodingJourney
+
+🚀 Day 14/90 – Java StringBuilder
+
+Continuing my journey to become a Java Developer 💻
+
+📚 Learned:
+- StringBuilder basics
+- Difference between String and StringBuilder
+- Mutable vs Immutable strings
+- StringBuilder methods (append(), insert(), delete(), reverse())
+
+💻 Practiced:
+- Appending multiple strings
+- Reversing a string using StringBuilder
+
+💡 Improved understanding of efficient string manipulation and performance optimization
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
