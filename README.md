@@ -208,3 +208,18 @@ Continuing my journey to become a Java Developer 💻
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+Day 15/90 - 2D Arrays
+
+📚 Topics Covered:
+- Introduction to 2D Arrays
+- Matrix Representation
+- Row-wise and Column-wise Traversal
+- Taking input and printing 2D arrays
+
+💻 Practice:
+- Matrix traversal problems
+- Basic operations on 2D arrays
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
