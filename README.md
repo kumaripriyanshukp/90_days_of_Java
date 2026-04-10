@@ -223,3 +223,13 @@ Day 15/90 - 2D Arrays
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+📅 Day 16/90 - Sorting Algorithms
+
+🔹 Learned and implemented basic sorting algorithms in Java:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Counting Sort
+
+💡 Improved problem-solving skills and strengthened DSA fundamentals.
