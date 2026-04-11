@@ -233,3 +233,15 @@ Consistency is the key 🔑
 - Counting Sort
 
 💡 Improved problem-solving skills and strengthened DSA fundamentals.
+
+📅 Day 17/90 – Sorting Algorithms Practice
+
+💻 Focused on learning and practicing basic sorting algorithms.
+
+✅ What I learned & practiced:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Counting Sort
+
+💡 Improved problem-solving skills and strengthened DSA fundamentals.
