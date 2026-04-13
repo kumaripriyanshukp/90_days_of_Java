@@ -245,3 +245,20 @@ Consistency is the key 🔑
 - Counting Sort
 
 💡 Improved problem-solving skills and strengthened DSA fundamentals.
+
+📌 Day 18/90 – Object-Oriented Programming (OOP)
+
+📚 Learned:
+
+- Encapsulation (data hiding using getters & setters)
+- Inheritance (code reusability using extends)
+- Polymorphism (method overloading & method overriding)
+
+💻 Practiced:
+
+- Created classes demonstrating encapsulation
+- Implemented inheritance between parent and child classes
+- Used method overloading and overriding to understand polymorphism
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
