@@ -262,3 +262,14 @@ Consistency is the key 🔑
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+📌 Day 19/90 –  Practiced Object-Oriented Programming (OOP)
+
+💻 Practiced:
+
+- Created BankAccount class (Encapsulation)
+- Implemented Shape hierarchy (Inheritance & Polymorphism)
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
+
