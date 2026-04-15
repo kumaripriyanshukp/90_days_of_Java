@@ -273,3 +273,15 @@ Consistency is the key 🔑
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
 
+📌 Day 20/90 –  Types of Inheritance
+
+📚 Learned:
+
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+
+Implemented examples to understand real-world usage
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
