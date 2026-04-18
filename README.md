@@ -285,3 +285,25 @@ Implemented examples to understand real-world usage
 
 Consistency is the key 🔑
 #90DaysOfCode #Java #CodingJourney
+
+🚀 Day 21/90 – Constructors in Java
+
+📚 Topics Covered:
+- Default constructor
+- Non-parameterized constructor
+- Parameterized constructor
+- Copy constructor
+
+💡 What I Learned:
+- Constructors initialize objects at the time of creation
+- Default & non-parameterized constructors don’t take arguments
+- Parameterized constructors allow setting values during object creation
+- Copy constructor is used to create a new object using another object’s data
+
+🛠️ Practice:
+- Created classes using different types of constructors
+- Implemented parameter passing through constructors
+- Built a copy constructor to duplicate object values
+
+Consistency is the key 🔑
+#90DaysOfCode #Java #CodingJourney
